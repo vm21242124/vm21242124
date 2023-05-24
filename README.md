@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://auth.geeksforgeeks.org/user/vm21242124/practice">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=geeksforgeek">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=geeksforgeek" alt="GFG">
     </a>
     <a href="https://leetcode.com/vm2124/">
         <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
@@ -24,7 +24,7 @@
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/vm21242124)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/vm21242124)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/vm21242124)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=c)](https://github.com/vm21242124)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/vm21242124)
 [![Nodejs](https://img.shields.io/badge/node-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/vm21242124)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/vm21242124)
 
