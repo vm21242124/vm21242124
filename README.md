@@ -17,21 +17,29 @@
 </p>
 
 ### Languages
-[![springboot](https://img.shields.io/badge/python-black?style=for-the-badge&logo=springboot)](https://github.com/vm21242124)
+[![springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/vm21242124)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/vm21242124)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/vm21242124)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/vm21242124)
-[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/vm21242124)
+
+### Frontend
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/vm21242124)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/vm21242124)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/vm21242124)
+[![Tailwindcss](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)](https://github.com/vm21242124)
+
+### Backend
+[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)](https://github.com/vm21242124)
 [![Nodejs](https://img.shields.io/badge/node-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/vm21242124)
+[![springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/vm21242124)
+
+### Databases
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/vm21242124)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/vm21242124)
 
 ### Technologies & Frameworks
-[![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=django)](https://github.com/vm21242124)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/vm21242124)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/vm21242124)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/vm21242124)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/vm21242124)
-[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=docker)](https://github.com/vm21242124)
+[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=aws)](https://github.com/vm21242124)
 
 ### ML/DL
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/vm21242124)
