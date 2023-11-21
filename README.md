@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Vinod Mali.<br>
-        MERN STACK DEVELOPER.<br>
+        SDE INTERN @BBD SOFTWARE🔥.<br>
         Currently Working on Full stack web developement projects<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
@@ -17,7 +17,7 @@
 </p>
 
 ### Languages
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://github.com/vm21242124)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/vm21242124)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/vm21242124)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/vm21242124)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/vm21242124)
@@ -34,7 +34,7 @@
 [![Nodejs](https://img.shields.io/badge/node-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/vm21242124)
 [![springboot](https://img.shields.io/badge/springboot-black?style=for-the-badge&logo=springboot)](https://github.com/vm21242124)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/vm21242124)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/vm21242124)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/vm21242124)
 
 ### Technologies & Frameworks
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/vm21242124)
