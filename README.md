@@ -1,10 +1,10 @@
-<h1 align="center">Hi, guys! 👋 Jay Shree Ram🚩🙏</h1>
+<h1 align="center">Hi, guys! 👋 Vinod Mali here🙏</h1>
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Vinod Mali.<br>
-        SDE INTERN @BBD SOFTWARE🔥.<br>
+        Ex Software Engineer intern @BBD SOFTWARE🔥.<br>
         Currently Working on Full stack web developement projects<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
